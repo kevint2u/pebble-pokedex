@@ -30,6 +30,56 @@
                 "type": "font"
             },
             {
+                "file": "images/10.png",
+                "name": "IMAGES_10_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/9.png",
+                "name": "IMAGES_9_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/8.png",
+                "name": "IMAGES_8_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/7.png",
+                "name": "IMAGES_7_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/6.png",
+                "name": "IMAGES_6_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/5.png",
+                "name": "IMAGES_5_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/4.png",
+                "name": "IMAGES_4_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/3.png",
+                "name": "IMAGES_3_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/2.png",
+                "name": "IMAGES_2_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/1.png",
+                "name": "IMAGES_1_PNG",
+                "type": "png"
+            },
+            {
                 "file": "images/20.png",
                 "name": "IMAGES_20_PNG",
                 "type": "png"
