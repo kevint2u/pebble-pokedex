@@ -21,8 +21,6 @@
             {"file": "images/11.png","name": "IMAGES_11_PNG","type": "png"},
             {"file": "images/12.png","name": "IMAGES_12_PNG","type": "png"},
             {"file": "images/13.png","name": "IMAGES_13_PNG","type": "png"},
-            {"file": "images/14.png","name": "IMAGES_14_PNG","type": "png"},
-            {"file": "images/15.png","name": "IMAGES_15_PNG","type": "png"},
             {
                 "file": "images/pokeball.png",
                 "menuIcon": true,
