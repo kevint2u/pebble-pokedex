@@ -680,7 +680,7 @@ var entries = {
   };
 var dynamic_items = [];
 for (var index in entries['pokemon']){
-	var item = {title:entries['pokemon'][index]['Pokemon'],subtitle:'#'+(parseInt(index)+1),icon: 'images/pokeball.png'};
+	var item = {title:entries['pokemon'][index]['Pokemon'],subtitle:'#'+(parseInt(index)+1), icon:'images/pokeball.png'};
 	dynamic_items.push(item);
 }
 
@@ -706,7 +706,7 @@ main.on('click', 'select', function(e) {
         card.scrollable('true');
         card.title('\n'+dynamic_items[e.item].title);
         card.subtitle(dynamic_items[e.item].subtitle);
-        card.icon(dynamic_items[e.item].icon);
+        card.icon(('images/'+parseInt(dynamic_items[e.item].subtitle.slice(1))+'.png'));
 				var desc = 'Type: '+String(entries['pokemon'][parseInt(dynamic_items[e.item].subtitle.slice(1))-1]['Number']) + '\nDescription: ' + String(entries['pokemon'][parseInt(dynamic_items[e.item].subtitle.slice(1))-1]['pokedex entry']);
 				card.body(desc);
         card.show();
