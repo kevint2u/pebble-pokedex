@@ -30,6 +30,106 @@
                 "type": "font"
             },
             {
+                "file": "images/80.png",
+                "name": "IMAGES_80_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/79.png",
+                "name": "IMAGES_79_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/78.png",
+                "name": "IMAGES_78_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/77.png",
+                "name": "IMAGES_77_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/76.png",
+                "name": "IMAGES_76_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/75.png",
+                "name": "IMAGES_75_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/74.png",
+                "name": "IMAGES_74_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/73.png",
+                "name": "IMAGES_73_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/72.png",
+                "name": "IMAGES_72_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/71.png",
+                "name": "IMAGES_71_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/70.png",
+                "name": "IMAGES_70_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/69.png",
+                "name": "IMAGES_69_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/68.png",
+                "name": "IMAGES_68_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/67.png",
+                "name": "IMAGES_67_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/66.png",
+                "name": "IMAGES_66_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/65.png",
+                "name": "IMAGES_65_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/64.png",
+                "name": "IMAGES_64_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/63.png",
+                "name": "IMAGES_63_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/62.png",
+                "name": "IMAGES_62_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/61.png",
+                "name": "IMAGES_61_PNG",
+                "type": "png"
+            },
+            {
                 "file": "images/pokeball.png",
                 "name": "IMAGES_POKEBALL_PNG",
                 "type": "png"
