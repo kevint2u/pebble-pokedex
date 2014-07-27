@@ -28,7 +28,7 @@ main.on('click', 'select', function(e) {
         card.scrollable('true');
         card.title('\n'+dynamic_items[e.item].title);
         card.subtitle(dynamic_items[e.item].subtitle);
-        //card.icon(('images/'+parseInt(dynamic_items[e.item].subtitle.slice(1))+'.png'));
+        card.icon(('images/'+parseInt(dynamic_items[e.item].subtitle.slice(1))+'.png'));
 				var desc = 'Type: '+entries[parseInt(dynamic_items[e.item].subtitle.slice(1))-1][0].Type+ '\nDescription: ' + entries[parseInt(dynamic_items[e.item].subtitle.slice(1))-1][0].pokedexEntry;
 				card.body(desc);
         card.show();
