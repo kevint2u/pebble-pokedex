@@ -8,26 +8,75 @@
     "projectType": "pebblejs",
     "resources": {
         "media": [
-            {"file": "images/1.png","name": "IMAGES_1_PNG","type": "png"},
-            {"file": "images/2.png","name": "IMAGES_2_PNG","type": "png"},
-            {"file": "images/3.png","name": "IMAGES_3_PNG","type": "png"},
-            {"file": "images/4.png","name": "IMAGES_4_PNG","type": "png"},
-            {"file": "images/5.png","name": "IMAGES_5_PNG","type": "png"},
-            {"file": "images/6.png","name": "IMAGES_6_PNG","type": "png"},
-            {"file": "images/7.png","name": "IMAGES_7_PNG","type": "png"},
-            {"file": "images/8.png","name": "IMAGES_8_PNG","type": "png"},
-            {"file": "images/9.png","name": "IMAGES_9_PNG","type": "png"},
-            {"file": "images/10.png","name": "IMAGES_10_PNG","type": "png"},
-
             {
-                "file": "images/pokeball.png",
+                "file": "images/menu_icon.png",
                 "menuIcon": true,
-                "name": "IMAGES_POKEBALL_PNG",
+                "name": "IMAGE_MENU_ICON",
                 "type": "png"
             },
             {
-                "file": "images/pokeball_bigger.png",
-                "name": "IMAGES_POKEBALL_BIGGER_PNG",
+                "file": "images/logo_splash.png",
+                "name": "IMAGE_LOGO_SPLASH",
+                "type": "png"
+            },
+            {
+                "file": "images/tile_splash.png",
+                "name": "IMAGE_TILE_SPLASH",
+                "type": "png"
+            },
+            {
+                "file": "fonts/UbuntuMono-Regular.ttf",
+                "name": "MONO_FONT_14",
+                "type": "font"
+            },
+            {
+                "file": "images/20.png",
+                "name": "IMAGES_20_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/19.png",
+                "name": "IMAGES_19_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/18.png",
+                "name": "IMAGES_18_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/17.png",
+                "name": "IMAGES_17_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/16.png",
+                "name": "IMAGES_16_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/13.png",
+                "name": "IMAGES_13_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/15.png",
+                "name": "IMAGES_15_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/14.png",
+                "name": "IMAGES_14_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/12.png",
+                "name": "IMAGES_12_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/11.png",
+                "name": "IMAGES_11_PNG",
                 "type": "png"
             }
         ]
