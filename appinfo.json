@@ -18,9 +18,7 @@
             {"file": "images/8.png","name": "IMAGES_8_PNG","type": "png"},
             {"file": "images/9.png","name": "IMAGES_9_PNG","type": "png"},
             {"file": "images/10.png","name": "IMAGES_10_PNG","type": "png"},
-            {"file": "images/11.png","name": "IMAGES_11_PNG","type": "png"},
-            {"file": "images/12.png","name": "IMAGES_12_PNG","type": "png"},
-            {"file": "images/13.png","name": "IMAGES_13_PNG","type": "png"},
+
             {
                 "file": "images/pokeball.png",
                 "menuIcon": true,
