@@ -1,30 +1,48 @@
 {
-    "uuid": "269625db-6822-48dd-9629-5655943d66cf",
-    "shortName": "pebble-pokedex",
-    "longName": "pebble-pokedex",
-
     "appKeys": {},
     "capabilities": [
         ""
     ],
     "companyName": "kevin.b.tu@gmail.com",
+    "longName": "pebble-pokedex",
     "projectType": "pebblejs",
     "resources": {
         "media": [
-
             {
-                "file": "images/pokeball_bigger.png",
-                "name": "IMAGES_POKEBALL_BIGGER_PNG",
+                "file": "images/menu_icon.png",
+                "name": "IMAGE_MENU_ICON",
                 "type": "png"
+            },
+            {
+                "file": "images/logo_splash.png",
+                "name": "IMAGE_LOGO_SPLASH",
+                "type": "png"
+            },
+            {
+                "file": "images/tile_splash.png",
+                "name": "IMAGE_TILE_SPLASH",
+                "type": "png"
+            },
+            {
+                "file": "fonts/UbuntuMono-Regular.ttf",
+                "name": "MONO_FONT_14",
+                "type": "font"
             },
             {
                 "file": "images/pokeball.png",
                 "menuIcon": true,
                 "name": "IMAGES_POKEBALL_PNG",
                 "type": "png"
+            },
+            {
+                "file": "images/pokeball_bigger.png",
+                "name": "IMAGES_POKEBALL_BIGGER_PNG",
+                "type": "png"
             }
         ]
     },
+    "shortName": "pebble-pokedex",
+    "uuid": "269625db-6822-48dd-9629-5655943d66cf",
     "versionCode": 1,
     "versionLabel": "1.0",
     "watchapp": {
