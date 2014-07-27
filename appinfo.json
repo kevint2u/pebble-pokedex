@@ -30,6 +30,21 @@
                 "type": "font"
             },
             {
+                "file": "images/83.png",
+                "name": "IMAGES_83_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/82.png",
+                "name": "IMAGES_82_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/81.png",
+                "name": "IMAGES_81_PNG",
+                "type": "png"
+            },
+            {
                 "file": "images/80.png",
                 "name": "IMAGES_80_PNG",
                 "type": "png"
@@ -417,6 +432,91 @@
             {
                 "file": "images/14.png",
                 "name": "IMAGES_14_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/100.png",
+                "name": "IMAGES_100_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/99.png",
+                "name": "IMAGES_99_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/98.png",
+                "name": "IMAGES_98_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/97.png",
+                "name": "IMAGES_97_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/96.png",
+                "name": "IMAGES_96_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/95.png",
+                "name": "IMAGES_95_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/94.png",
+                "name": "IMAGES_94_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/93.png",
+                "name": "IMAGES_93_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/92.png",
+                "name": "IMAGES_92_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/91.png",
+                "name": "IMAGES_91_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/90.png",
+                "name": "IMAGES_90_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/89.png",
+                "name": "IMAGES_89_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/88.png",
+                "name": "IMAGES_88_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/87.png",
+                "name": "IMAGES_87_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/86.png",
+                "name": "IMAGES_86_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/85.png",
+                "name": "IMAGES_85_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/84.png",
+                "name": "IMAGES_84_PNG",
                 "type": "png"
             },
             {
