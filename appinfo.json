@@ -23,11 +23,6 @@
             {"file": "images/13.png","name": "IMAGES_13_PNG","type": "png"},
             {"file": "images/14.png","name": "IMAGES_14_PNG","type": "png"},
             {"file": "images/15.png","name": "IMAGES_15_PNG","type": "png"},
-            {"file": "images/16.png","name": "IMAGES_16_PNG","type": "png"},
-            {"file": "images/17.png","name": "IMAGES_17_PNG","type": "png"},
-            {"file": "images/18.png","name": "IMAGES_18_PNG","type": "png"},
-            {"file": "images/19.png","name": "IMAGES_19_PNG","type": "png"},
-            {"file": "images/20.png","name": "IMAGES_20_PNG","type": "png"},
             {
                 "file": "images/pokeball.png",
                 "menuIcon": true,
